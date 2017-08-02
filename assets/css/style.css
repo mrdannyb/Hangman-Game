@@ -4,7 +4,7 @@ body {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
-
+	box-sizing: border-box;
 }
 
 #instructionsBox {
@@ -16,4 +16,9 @@ body {
 
 #Welcome {
 	text-align: center;
+}
+
+#letters {
+	display: flex;
+	align-items: center;
 }
