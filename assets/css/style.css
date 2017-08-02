@@ -1,0 +1,19 @@
+body {
+	position: relative;
+	background-color: #f3ebcb;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+
+}
+
+#instructionsBox {
+	border: 3px ridge grey;
+	background-color: #dfdfdf;
+	width: max-content;
+	padding: 20px;
+}
+
+#Welcome {
+	text-align: center;
+}
