@@ -23,15 +23,12 @@ body {
 	align-items: center;
 }
 
-.uScore {
-	margin: 2px;
-}
 
 #wordSpace {
 	display: flex;
 }
 
-.usedLetters {
+.usedLetters, .uScore {
 	font-size: 22px;
 	font-weight: bold;
 	margin: 2px;
