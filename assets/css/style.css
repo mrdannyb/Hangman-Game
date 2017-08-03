@@ -30,3 +30,9 @@ body {
 #wordSpace {
 	display: flex;
 }
+
+.usedLetters {
+	font-size: 22px;
+	font-weight: bold;
+	margin: 2px;
+}
